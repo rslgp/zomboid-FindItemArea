@@ -11,4 +11,4 @@ created using javadoc api: https://projectzomboid.com/modding/index.html
 [2789003239 ItemSearcher ft Reifel.zip](https://github.com/rslgp/zomboid-FindItemArea/releases/latest)
 
 ---
-and wood wheelbarrow from Hydrocraft
+and wood wheelbarrow from Hydrocraft + fix trunk stuck if too heavy bug
